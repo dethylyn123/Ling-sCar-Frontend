@@ -5,8 +5,8 @@ import {setRouter} from "../router/router.js";
 setRouter();
 
 
-const backendURL = "http://ling-backend.test";
-
+const backendURL = "https://b720-143-44-193-252.ngrok-free.app/ling-backend/public";
+// http://ling-backend.test
 let userId;
 
 // Get Logged User Profile Name
