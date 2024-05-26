@@ -5,7 +5,7 @@ import {setRouter} from "../router/router.js";
 setRouter();
 
 
-const backendURL = "https://b720-143-44-193-252.ngrok-free.app/ling-backend/public";
+const backendURL = "https://6db9-143-44-193-252.ngrok-free.app/ling-backend/public";
 // http://ling-backend.test
 let userId;
 
